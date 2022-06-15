@@ -6,7 +6,7 @@ Scripts can be loaded into OBS via the Tools > Scripts menu.
 
 ## Scripts
 
-1. [ResetAudioMonitors](https://github.com/jakubbilko/obs-scripts/ResetAudioMonitors.lua)
+1. [ResetAudioMonitors](https://github.com/jakubbilko/obs-scripts/blob/main/ResetAudioMonitors.lua)
 
 Reset the audio monitor settings for your sources with one button! Useful is your obs glitches out and you have to manually reset your audio monitor settings.
 
