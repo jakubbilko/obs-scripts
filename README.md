@@ -1,7 +1,5 @@
 # OBS SCRIPTS
 
----
-
 This repository contains some various OBS scripts that I find useful.
 
 Scripts can be loaded into OBS via the Tools > Scripts menu.
